@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaGoutam18/AdityaDev18/blob/main/Make%20your%20README.png)
+![logo](https://github.com/AdityaGoutam18/AdityaGoutam18/blob/main/Make%20your%20README.png)
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
