@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/adityadev10010" target="blank"><img src="https://img.shields.io/twitter/follow/adityadev10010?logo=twitter&style=for-the-badge" alt="adityadev10010" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaGoutam18" alt="abhi-cpp" /></a> </p>
+
 - 🌱 I’m currently learning **Data Strucutres and Algorithms, Flutter, Android Devlopment**
 
 - 📫 How to reach me **aditya.dev10010@gmail.com**
