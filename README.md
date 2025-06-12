@@ -30,8 +30,8 @@ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/de
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagoutam18&show_icons=true&locale=en&layout=compact" alt="adityagoutam18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadityaa-g18&show_icons=true&locale=en&layout=compact" alt="aaditya-g18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityagoutam18&show_icons=true&locale=en" alt="adityagoutam18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityaa-g18&show_icons=true&locale=en" alt="aadityaa-g18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagoutam18&" alt="adityagoutam18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityaa-g18&" alt="adityagoutam18" /></p>
